@@ -10,12 +10,6 @@ Contributors:
 # Hi!
 This is the README file for the HUB-Target project, Good luck Rocky! I hope that our efforts can help out!
 
-Contributors:
-- Thomas McClelland (design, implementation, README.md)
-- Andrew Montgomery (programming)
-- Rebecca Dilley (design of target cards and original presentation materials)
-- Jacob Weigand (design of original presentation materials)
-
 ## Versioning Explaination
 
 Simply put, the first of the two numbers is the hardware model it is designed for, and the second is the software release.
