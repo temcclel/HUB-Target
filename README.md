@@ -1,4 +1,5 @@
 Current version: V1.0.0
+
 Contact me: thomasm@mailfence.com
 
 Contributors:
